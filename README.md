@@ -1,10 +1,11 @@
 # Vite 2.x + Vue 3.x + TypeScript Starter
 
 [![Author](https://img.shields.io/badge/author-XPoet-orange.svg)](https://github.com/XPoet)
-[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/XPoet/vite-vue3-starter/blob/ master/LICENSE)
+[![License](https://img.shields.io/github/license/XPoet/vite-vue3-starter.svg)](https://github.com/XPoet/vite-vue3-starter/blob/master/LICENSE)
 [![Stars](https://img.shields.io/github/stars/XPoet/vite-vue3-starter)](https://github.com/XPoet/vite-vue3-starter)
-[![Deploy](https://github.com/XPoet/vite-vue3-starter/workflows/deploy/badge.svg)](https://github.com/XPoet/vite-vue3-starter/actions/ workflows/deploy.yml)
+[![Deploy](https://github.com/XPoet/vite-vue3-starter/workflows/deploy/badge.svg)](https://github.com/XPoet/vite-vue3-starter/actions/workflows/deploy.yml)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-Airbnb-hotpink.svg)](https://github.com/lin-123/javascript)
+
 
 > A set of robust front-end rapid development templates that perfectly integrate Vite 2.x + Vue 3.x + TypeScript + Vue Router + Vuex + Axios + ESLint
 
@@ -15,6 +16,8 @@ https://vite-vue3-starter.xpoet.cn/
 ## Communication group
 
 Friends are welcome to join the front-end technology exchange group, because the group members are more than 200 people, you need to pay attention to the official account "Front-end Encourager", add the author's WeChat, and then the author will pull you into the group~
+
+<img src="https://cdn.jsdelivr.net/gh/XPoet/image-hosting@master/FE-Cheerleaders/FEC-Card.76dbi8n1bkk0.png" width="80%" />
 
 ## Build tutorial from 0 to 1
 
